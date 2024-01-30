@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TWqrdaUwFwzvrRbEK3cyVHk9f9B/cc8YBJ75L+rHIForC7KWEX9DJarczH0hepBhBK/GO0tu4cdx0xQnToLrGQ==",
+  "dgSpecHash": "eQhpWEgMdgh3nkK4Jp2dam3gdVe0CyhCXT4jWsCJXefThncTOCao7Y2PxeSdwBMyTi9PxbMrhgrv2TJ3ecCMxA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Api\\AnNguyen.Api.csproj",
+  "projectFilePath": "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Api\\AnNguyen.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows 10\\.nuget\\packages\\ardalis.guardclauses\\4.4.0\\ardalis.guardclauses.4.4.0.nupkg.sha512",
     "C:\\Users\\Windows 10\\.nuget\\packages\\azure.core\\1.19.0\\azure.core.1.19.0.nupkg.sha512",

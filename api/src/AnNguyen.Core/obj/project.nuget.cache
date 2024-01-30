@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P14RWo7nwEpyUn/nOWV/8foDuHaQRQ1rQDNvXmBWZswSAbsoFEhYDMVEwIkh4UewjHyjgMBQ6S6evUi1x0cWlw==",
+  "dgSpecHash": "weOgHqpyD/ndiHRQ4AJQ3dlBD5tIqcK78MH8p8bZwcCf7NKX491MqH33K8k2SfbHk4hJyfyhnbpZPnUgR6zn0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Core\\AnNguyen.Core.csproj",
+  "projectFilePath": "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Core\\AnNguyen.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\Windows 10\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",

@@ -7760,11 +7760,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Handlers\\AnNguyen.Handlers.csproj",
+      "projectUniqueName": "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Handlers\\AnNguyen.Handlers.csproj",
       "projectName": "AnNguyen.Handlers",
-      "projectPath": "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Handlers\\AnNguyen.Handlers.csproj",
+      "projectPath": "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Handlers\\AnNguyen.Handlers.csproj",
       "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Handlers\\obj\\",
+      "outputPath": "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Handlers\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7786,11 +7786,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Domain\\AnNguyen.Domain.csproj": {
-              "projectPath": "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Domain\\AnNguyen.Domain.csproj"
+            "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Domain\\AnNguyen.Domain.csproj": {
+              "projectPath": "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Domain\\AnNguyen.Domain.csproj"
             },
-            "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Infrastructure\\AnNguyen.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Infrastructure\\AnNguyen.Infrastructure.csproj"
+            "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Infrastructure\\AnNguyen.Infrastructure.csproj": {
+              "projectPath": "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Infrastructure\\AnNguyen.Infrastructure.csproj"
             }
           }
         }

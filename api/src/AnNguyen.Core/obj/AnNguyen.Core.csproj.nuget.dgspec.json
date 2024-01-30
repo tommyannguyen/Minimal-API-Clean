@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Core\\AnNguyen.Core.csproj": {}
+    "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Core\\AnNguyen.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Core\\AnNguyen.Core.csproj": {
+    "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Core\\AnNguyen.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Core\\AnNguyen.Core.csproj",
+        "projectUniqueName": "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Core\\AnNguyen.Core.csproj",
         "projectName": "AnNguyen.Core",
-        "projectPath": "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Core\\AnNguyen.Core.csproj",
+        "projectPath": "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Core\\AnNguyen.Core.csproj",
         "packagesPath": "C:\\Users\\Windows 10\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Core\\obj\\",
+        "outputPath": "C:\\Nca\\test\\test\\api\\src\\AnNguyen.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
