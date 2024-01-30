@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "x1eTTOt8eoRuuwf28r7Wb36dfoPlKoW6JK/sOk4/wc3h+nFoVhjtP9eai690RA583hr33cHR5FHG1MHvoCQAug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Windows 10\\Downloads\\fast-architecture-main\\api\\src\\AnNguyen.Domain\\AnNguyen.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Windows 10\\.nuget\\packages\\ardalis.guardclauses\\4.4.0\\ardalis.guardclauses.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
